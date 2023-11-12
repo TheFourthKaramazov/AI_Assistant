@@ -20,8 +20,6 @@ This Python script demonstrates the integration of various language models, vect
 2. Clone or download this repository:
     ```bash
     git clone https://github.com/TheFourthKaramazov/AI_Assistant
-    cd your-repository
-    Configure the script:
     ```
 
 3. Replace the placeholders in the script with your actual API keys and configurations.
