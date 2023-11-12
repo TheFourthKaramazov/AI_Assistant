@@ -36,7 +36,7 @@ Before running the script, ensure you have the required API keys and configurati
     ```
 3. Run the script:
 
-    ```bash
+    ```python
     python index.py
     ```
 The script will prompt you to ask questions, and it will provide answers based on the stored text data in the AstraDB database. You can type 'quit' to exit the script.
