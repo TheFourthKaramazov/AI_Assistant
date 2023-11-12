@@ -17,12 +17,13 @@ This Python script demonstrates the integration of various language models, vect
 
     from datasets import load_dataset
     ```
-2. Clone or download this repository:
+# Usage
+1. Clone or download this repository:
     ```bash
     git clone https://github.com/TheFourthKaramazov/AI_Assistant
     ```
 
-3. Replace the placeholders in the script with your actual API keys and configurations.
+2. Replace the placeholders in the script with your actual API keys and configurations.
 Before running the script, ensure you have the required API keys and configurations for OpenAI and AstraDB. Replace the placeholders in the script with your actual API keys and configuration details.
 
     ```python
@@ -33,7 +34,7 @@ Before running the script, ensure you have the required API keys and configurati
     ASTRA_DB_CLIENT_ID = "YOUR_ASTRA_DB_CLIENT_ID"
     ASTRA_DB_CLIENT_SECRET = "YOUR_ASTRA_DB_CLIENT_SECRET"
     ```
-## Run the script:
+3. Run the script:
 
     ```bash
     python index.py
